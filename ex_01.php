@@ -15,8 +15,6 @@ $resultado = (pow($x,2) + pow ($y, 2)) / ($x + $y);
 $x = 6;
 $y = 25;
 
-function
-
 echo "O valor de X: $x <br>";
 echo "O valor de Y: $y <br>";
 echo "A fórmula resulta em: " .calcularFormula($x,$y);
