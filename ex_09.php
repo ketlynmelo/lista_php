@@ -44,7 +44,7 @@ function analisarNume($numero){
 
         $resultado = analisarNume  ($numero_usu);
 
-        echo "Número analisado: $numero_usuario <br>";
+        echo "Número analisado: $numero_usu<br>";
         echo "Paridade: " . $resultado["paridade"] . "<br>";
         echo "É primo? " . $resultado["primo"] . "<br>";
         echo "É perfeito? " . $resultado["perfeito"] . "<br>";
