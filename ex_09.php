@@ -49,5 +49,5 @@ function analisarNume($numero){
         echo "É primo? " . $resultado["primo"] . "<br>";
         echo "É perfeito? " . $resultado["perfeito"] . "<br>";
 
-
+/
 ?>
